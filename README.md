@@ -263,7 +263,3 @@ All names and passwords in this project are fictional test data.
 | `[Khaled Sourour]` |  
 
 ---
-
-## License
-
-For academic coursework use only. `[Add a license if you wish to share publicly.]`

@@ -3,9 +3,6 @@
 A menu-driven C++ console application that manages products, customers, orders, and administrators using **object-oriented programming**, **custom linked lists**,**Data Strucure** and **file handling**.
 
 **Group focus:** Order status and delivery tracking.
-
-> Replace every `[bracketed placeholder]` with your own details before submitting.
-
 ---
 
 ## Table of Contents
@@ -197,19 +194,6 @@ All names and passwords in this project are fictional test data.
 | C5101 | Customer One | `[test password]` |
 | C5102 | Customer Two | `[test password]` |
 | C5103 | Customer Three | `[test password]` |
-
-### Test orders (minimum five, across at least two customers)
-
-| Order | Customer | Product | Qty | Scenario | Expected result |
-|-------|----------|---------|-----|----------|-----------------|
-| 1 | C5101 | P5101 | `[ ]` | Valid purchase | Success, stock decreases |
-| 2 | C5101 | P5104 | `[ ]` | Valid purchase | Success, stock decreases |
-| 3 | C5102 | P5107 | `[ > 6 ]` | Exceeds stock | Rejected with validation message |
-| 4 | C5102 | P5105 | `[ ]` | Valid purchase | Success, stock decreases |
-| 5 | C5101 | P5101 | `[ ]` | Valid return | Success, stock increases |
-
-> Fill in quantities and add more rows as needed.
-
 ---
 
 ## Test Cases
